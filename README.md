@@ -10,8 +10,8 @@ The Geekdom book club is a weekly meeting to discuss articles and publications r
 ## Potential Books
 
 * [The five programming books that meant most to me](https://37signals.com/svn/posts/3375-the-five-programming-books-that-meant-most-to-me)
-  ** Smalltalk Best Practice Patterns
-  ** Refactoring
-  ** Patterns of Enterprise Application Architecture
-  ** Domain-Driven Design
-  ** Are Your Lights On?
+   ** Smalltalk Best Practice Patterns
+   ** Refactoring
+   ** Patterns of Enterprise Application Architecture
+   ** Domain-Driven Design
+   ** Are Your Lights On?
