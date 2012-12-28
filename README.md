@@ -1,6 +1,6 @@
 # Geekdom Bookclub
 
-The Geekdom book club is a weekly meeting to discuss articles and publications relevant to the craft and practice programming.  
+The Geekdom book club is a weekly meeting to discuss articles and publications relevant to the craft and practice of programming.  
 
 ## Valuable Links:
 
