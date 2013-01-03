@@ -1,4 +1,4 @@
-# December 28, 2012
+# January 10th, 2013
 
 Here is the first set of readings to look at.
 
