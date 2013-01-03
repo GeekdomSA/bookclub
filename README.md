@@ -2,6 +2,11 @@
 
 The Geekdom book club is a weekly meeting to discuss articles and publications relevant to the craft and practice of programming.  
 
+The first meeting will be held:
+Thursday, January 10th, 2012
+6:00-7:00pm 
+Geekdom, 11th floor
+
 ## Valuable Links:
 
 * [How to Read an Engineering Research Paper](http://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html)
