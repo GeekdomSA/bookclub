@@ -2,22 +2,30 @@
 
 The Geekdom book club is a weekly meeting to discuss articles and publications relevant to the craft and practice of programming.  
 
-The first meeting will be held:
-Thursday, January 10th, 2012
-6:00-7:00pm 
-Geekdom, 11th floor
+## Time and Location
 
-## Valuable Links:
+Thursdays, 6:00-7:00pm at [Geekdom](http://geekdom.com/location/) on the 11th floor. 
+
+## Calendar 
+
+The repository directory structure also serves as a calendar for upcoming events and reading assignments.
+
+    2013/
+    └── 01
+        ├── 10
+        │   ├── README.markdown
+        │   ├── architectural-mismatch-or-why-its-hard-to-build.pdf
+        │   ├── can-patterns-be-harmful.pdf
+        │   └── parnas-jewels.pdf
+        └── 17
+            └── README.markdown
+
+
+From this we can see that the first meeting is on Thursday, January 10th, 2013 with the next meeting following on January 17th.  
+
+Navigating to this folder on github will render README.markdown which contains a brief assignment summary with links to the listed papers.  
+
+## Valuable Links
 
 * [How to Read an Engineering Research Paper](http://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html)
 * [Article Evaluation Questions](http://cseweb.ucsd.edu/~wgg/CSE210/paperform.pdf)
-
-## Potential Books
-
-### [The five programming books that meant most to me](https://37signals.com/svn/posts/3375-the-five-programming-books-that-meant-most-to-me)
-
-* Smalltalk Best Practice Patterns
-* Refactoring
-* Patterns of Enterprise Application Architecture
-* Domain-Driven Design
-* Are Your Lights On?
