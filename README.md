@@ -4,7 +4,7 @@ The Geekdom book club is a weekly meeting to discuss articles and publications r
 
 ## Time and Location
 
-Thursdays, 6:00-7:00pm at [Geekdom](http://geekdom.com/location/) on the 11th floor. 
+Thursdays, 6:00-7:00pm at [Geekdom](http://geekdom.com/location/) on the 11th floor in the Berners-Lee conference room.  
 
 ## Calendar 
 
