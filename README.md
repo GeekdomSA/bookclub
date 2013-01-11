@@ -37,4 +37,4 @@ Navigating to this folder on github will render README.markdown which contains a
 
 * [How to Read an Engineering Research Paper](http://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html)
 * [Article Evaluation Questions](http://cseweb.ucsd.edu/~wgg/CSE210/paperform.pdf)
-* [Note Taking Rubric}(http://cseweb.ucsd.edu/%7Ewgg/CSE210/NoteTakingRubric.pdf)
+* [Note Taking Rubric](http://cseweb.ucsd.edu/%7Ewgg/CSE210/NoteTakingRubric.pdf)
