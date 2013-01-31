@@ -33,6 +33,10 @@ From this we can see that the first meeting is on Thursday, January 10th, 2013 w
 
 Navigating to this folder on github will render README.markdown which contains a brief assignment summary with links to the listed papers.  
 
+## Questions / Suggestions
+
+We're currently using [issues](https://github.com/GeekdomSA/bookclub/issues) to track article submissions and any group administration.
+
 ## Valuable Links
 
 * [How to Read an Engineering Research Paper](http://cseweb.ucsd.edu/~wgg/CSE210/howtoread.html)
