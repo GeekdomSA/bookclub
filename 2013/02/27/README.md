@@ -1,4 +1,4 @@
-# February 26, 2013
+# February 27, 2013
 
 This looks like a lot of chapters, but it's only 64 pages, about 20 more than we did last time. It also sets us up for the next reading, which includes a heavy chapter.
 
