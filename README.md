@@ -4,7 +4,7 @@ The Geekdom book club is a weekly meeting to discuss articles and publications r
 
 ## Time and Location
 
-Thursdays, 6:00-7:00pm at [Geekdom](http://geekdom.com/location/) on the 11th floor in the Berners-Lee conference room.  
+Wednesdays, 6:00-7:00pm at [Geekdom](http://geekdom.com/location/) on the 11th floor in the Berners-Lee conference room.  
 
 ## Format
 
@@ -29,7 +29,7 @@ The repository directory structure also serves as a calendar for upcoming events
             └── README.markdown
 
 
-From this we can see that the first meeting is on Thursday, January 10th, 2013 with the next meeting following on January 17th.  
+From this we can see that the first meeting is on January 10th, 2013 with the next meeting following on January 17th.  
 
 Navigating to this folder on github will render README.markdown which contains a brief assignment summary with links to the listed papers.  
 
