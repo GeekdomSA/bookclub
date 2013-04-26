@@ -14,6 +14,7 @@
 Bonus materials will not be covered in the book club.  They are just for your reading (er, viewing) pleasure.
 
 [Video with Jim Coplien and Bob Martin](http://www.infoq.com/interviews/coplien-martin-tdd)
+
 Note: there is a transcript so you can read through it.  I just thought it was interesting to see two big names
 talk about the topic.
 
